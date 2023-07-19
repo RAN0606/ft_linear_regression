@@ -2,3 +2,4 @@
 An introduction to machine learning
 ## Some notions for linear_regression in machine learning
 1. https://www.knowledgehut.com/blog/data-science/linear-regression-for-machine-learning
+2. https://www.knowledgehut.com/blog/data-science/gradient-descent-in-machine-learning
